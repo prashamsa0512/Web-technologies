@@ -1,0 +1,17 @@
+Movie Rental Store
+Filter by Genre:
+
+All Genres
+Filter by Year:
+
+All Years
+Title	Genre	Year	Rental Price
+Inception	Sci-Fi	2010	$3
+Parasite	Drama	2019	$3
+The Dark Knight	Action	2008	$3
+Avengers: Endgame	Action	2019	$3
+Interstellar	Sci-Fi	2014	$3
+Add New Movie
+Movie Title:
+Genre:
+Year:
